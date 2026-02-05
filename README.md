@@ -1,4 +1,4 @@
-# nullos
+# NullOS
 
 debian-based security-focused linux distro.
 
