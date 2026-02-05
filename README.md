@@ -86,8 +86,8 @@ not ready for contributions yet. once v1.0-final drops and the build process is 
 **this is an alpha release.** do not use in production environments without applying security updates first. intended for testing, learning, and development.
 
 ## license
+
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-Apache 2.0
 
 ---
 
