@@ -13,7 +13,7 @@ debian-based security-focused linux distro.
 - security toolkit (nmap, wireshark, hashcat, john, hydra, aircrack-ng, masscan, nikto, sqlmap)
 - dev environment (vscode, gcc, g++, python3, git, cmake)
 - brave browser, firefox
-- performance tweaks (zram, preload, optimized sysctl, I'm all for a be)
+- performance tweaks (zram, preload, optimized sysctl, I'm all for a better efficiency and ofc a happier system)
 
 ## known issues
 
