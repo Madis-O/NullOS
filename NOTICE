@@ -1,0 +1,14 @@
+NullOS
+Copyright (c) 2026 Madis-O<a href="https://github.com/Madis-O" target="_blank" rel="noopener noreferrer nofollow"></a> / NullSec
+
+This product is licensed under the Apache License, Version 2.0.
+
+Portions of this software include third-party components such as:
+- Debian base system
+- KDE Plasma desktop
+- Various security tools (e.g., Nmap, Metasploit, Wireshark, etc.)
+
+See the respective package sources and licenses for details on third-party attributions.
+
+Maintained by Madis Ojasuu for privacy, security, and homelab use.
+https://github.com/Madis-O/NullOS
